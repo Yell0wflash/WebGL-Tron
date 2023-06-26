@@ -2,7 +2,7 @@
 
 
 
-#### [Play demo](http://dpren.github.io/tron)
+#### [Play demo](https://flash-tron.web.app)
 
 ##### run locally:
 
@@ -15,6 +15,5 @@
 
 ### Want to help?
 
-* [![Join the chat at https://gitter.im/dpren/WebGL-Tron](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dpren/WebGL-Tron?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-* [send a pull request](https://github.com/dpren/WebGL-Tron/pulls)
-* email me: [prenticedarren@gmail.com](prenticedarren@gmail.com)
+* [send a pull request](https://github.com/Yell0wflash/WebGL-Tron/pulls)
+* email me: [blueflash0918@gmail.com](blueflash0918@gmail.com)
